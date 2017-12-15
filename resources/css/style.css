@@ -1,9 +1,9 @@
-head{
+#titulo{
+  color: white;
   font-size: 50px;
   font-weight: bold;
   font-family: verdana, sans-serif;
   text-align: center;
-  background-color: black;
 }
 
 body {
@@ -12,7 +12,30 @@ body {
 }
 
 .downl{
-  font-family: aquamarine;
+  color: aquamarine;
   font-size: 16px;
+  text-align: center;
+}
+
+.video{
+  text-align: center;
+}
+
+.subtit{
+  font-family: verdana, sans-serif;
+  font-size: 42px;
+  font-weight: bold;
+  color: white;
+  text-align: center
+}
+
+.text{
+  color: grey;
+  font-family: verdana, sans-serif;
+  font-size: 21px;
+  text-align: center;
+}
+
+.image{
   text-align: center;
 }
